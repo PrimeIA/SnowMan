@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "Version initiale",
-  "pub_date": "2025-08-15T10:00:00Z",
+  "version": "0.1.1",
+  "notes": "Version améliorer avec menu d'acceuil.",
+  "pub_date": "2026-08-16T23:20:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
-      "url": "https://raw.githubusercontent.com/PrimeIA/SnowMan/updates/SnowMan_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSS1ZjL2pFTWNkbnU0RVZMb3g0NnAyTjR1VnVJeWF4Z09DelhVT2lFVVhkNld6dmJ1MzNSNkNyWURwL0pGMWJFTSt6WThGaDJtVjBNbExhOStwUEJIYy9HZmtUc0NKY2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTA3OTAwCWZpbGU6U25vd01hbl8wLjEuMV94NjQtc2V0dXAuZXhlCmVIZU4wd1BTbElsRHpUZlZvUjRiREdjVkprZUVZQkwrQ3NMRkg3MWhpZUJXaDJTSEtBSldYNFR5WjM3U0RjRjlvU0pzc09Qb21wUFFhN0JKdWRZWUR3PT0K",
+      "url": "https://github.com/PrimeIA/SnowMan/raw/refs/heads/updates/SnowMan_0.1.1_x64-setup.exe"
     }
   }
 }
