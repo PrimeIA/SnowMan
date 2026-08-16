@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Version initiale",
+  "pub_date": "2025-08-15T10:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://raw.githubusercontent.com/PrimeIA/SnowMan/updates/SnowMan_0.1.0_x64-setup.exe"
+    }
+  }
+}
