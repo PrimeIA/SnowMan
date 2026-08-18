@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSS1ZjL2pFTWNkbnFFajJWWjYvcXFrQVNwdlhWQzI4dld4NjNvNUxKckxsZWpoTFhDNUJSeUxXK2V1RTZWV2MzV2tKZ0V1SmlRQkJMWldPVm1QTkZYbGwzbFR1YXRQdUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDc1OTU4CWZpbGU6U25vd01hbl8wLjEuMl94NjQtc2V0dXAuZXhlCnRNVDZzdFRMT2R2bG5hRTJJRnVnTGtEQ0I3ZUFubWhCdEF3cmZ1N3ZCVWswaWNwQmxXWndBd1BHWFZaL0tBVVloK1orZE9SSzdWN2ZEZzhlcXBDbUJnPT0K",
-      "url": "https://github.com/PrimeIA/SnowMan/blob/updates/SnowMan_0.1.2_x64-setup.exe"
+      "url": https://raw.githubusercontent.com/PrimeIA/SnowMan/updates/SnowMan_0.1.2_x64-setup.exe
     }
   }
 }
