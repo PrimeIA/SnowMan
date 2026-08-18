@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "notes": "Version améliorer avec menu d'acceuil.",
-  "pub_date": "2026-08-16T23:20:00Z",
+  "pub_date": "2026-08-18T20:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSS1ZjL2pFTWNkbnU0RVZMb3g0NnAyTjR1VnVJeWF4Z09DelhVT2lFVVhkNld6dmJ1MzNSNkNyWURwL0pGMWJFTSt6WThGaDJtVjBNbExhOStwUEJIYy9HZmtUc0NKY2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTA3OTAwCWZpbGU6U25vd01hbl8wLjEuMV94NjQtc2V0dXAuZXhlCmVIZU4wd1BTbElsRHpUZlZvUjRiREdjVkprZUVZQkwrQ3NMRkg3MWhpZUJXaDJTSEtBSldYNFR5WjM3U0RjRjlvU0pzc09Qb21wUFFhN0JKdWRZWUR3PT0K",
-      "url": "https://github.com/PrimeIA/SnowMan/raw/refs/heads/updates/SnowMan_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSS1ZjL2pFTWNkbnFFajJWWjYvcXFrQVNwdlhWQzI4dld4NjNvNUxKckxsZWpoTFhDNUJSeUxXK2V1RTZWV2MzV2tKZ0V1SmlRQkJMWldPVm1QTkZYbGwzbFR1YXRQdUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDc1OTU4CWZpbGU6U25vd01hbl8wLjEuMl94NjQtc2V0dXAuZXhlCnRNVDZzdFRMT2R2bG5hRTJJRnVnTGtEQ0I3ZUFubWhCdEF3cmZ1N3ZCVWswaWNwQmxXWndBd1BHWFZaL0tBVVloK1orZE9SSzdWN2ZEZzhlcXBDbUJnPT0K",
+      "url": "https://github.com/PrimeIA/SnowMan/blob/updates/SnowMan_0.1.2_x64-setup.exe"
     }
   }
 }
